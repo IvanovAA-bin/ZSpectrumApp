@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ZSpectrum</string>
+    <string name="button_1_text">CPS</string>
+    <string name="button_2_text">Status</string>
+    <string name="button_3_text">Spectrum</string>
+
+    <string name="g1_text">Device commands</string>
+    <string name="g1_s1_text">Start counting</string>
+    <string name="g1_s2_text">Stop counting</string>
+    <string name="g1_s3_text">Save spectrogram</string>
+    <string name="g1_s4_text">Start CPS</string>
+    <string name="g1_s5_text">Stop CPS</string>
+    <string name="g1_s6_text">Init FS</string>
+    <string name="g1_s7_text">Inverse LED</string>
+    <string name="g1_s8_text">Get 48 val from spectrogram</string>
+    <string name="g1_s9_text">Clear spectrogram</string>
+    <string name="g1_s10_text">Set CPS time</string>
+    <string name="g1_s11_text">Save spectrum with filename</string>
+    <string name="g1_s12_text">Set measurement time</string>
+    <string name="g1_s13_text">Set device advertising number</string>
+    <string name="g1_s14_text">Set counts for pulse</string>
+    <string name="g1_s15_text">Set min filtration value</string>
+    <string name="g1_s16_text">Set max filtration value</string>
+    <string name="g1_s17_text">Get device status</string>
+
+    <string name="g2_text">CPS settings</string>
+    <string name="g2_s1_text">Dynamic resolution</string>
+    <string name="g2_s2_text">Dynamic res. threshold value</string>
+    <string name="g2_s3_text">Warning level value</string>
+    <string name="g2_s4_text">Critical level value</string>
+    <string name="g2_s5_text">Autoscroll</string>
+    <string name="g2_s6_text">Locked</string>
+    <string name="g2_s7_text">Smoothing</string>
+    <string name="g2_s8_text">Start from zero</string>
+    <string name="g2_s9_text">Show CPS graphic</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_device_settings_group"
+        android:visible="false" >
+        <item android:title="@string/g1_text">
+            <menu>
+                <item
+                    android:id="@+id/g1_s1"
+                    android:title="@string/g1_s1_text" />
+                <item
+                    android:id="@+id/g1_s2"
+                    android:title="@string/g1_s2_text" />
+                <item
+                    android:id="@+id/g1_s3"
+                    android:title="@string/g1_s3_text" />
+                <item
+                    android:id="@+id/g1_s4"
+                    android:title="@string/g1_s4_text" />
+                <item
+                    android:id="@+id/g1_s5"
+                    android:title="@string/g1_s5_text" />
+                <item
+                    android:id="@+id/g1_s6"
+                    android:title="@string/g1_s6_text" />
+                <item
+                    android:id="@+id/g1_s7"
+                    android:title="@string/g1_s7_text" />
+                <item
+                    android:id="@+id/g1_s8"
+                    android:title="@string/g1_s8_text" />
+                <item
+                    android:id="@+id/g1_s9"
+                    android:title="@string/g1_s9_text" />
+                <item
+                    android:id="@+id/g1_s10"
+                    android:title="@string/g1_s10_text" />
+                <item
+                    android:id="@+id/g1_s11"
+                    android:title="@string/g1_s11_text" />
+                <item
+                    android:id="@+id/g1_s12"
+                    android:title="@string/g1_s12_text" />
+                <item
+                    android:id="@+id/g1_s13"
+                    android:title="@string/g1_s13_text" />
+                <item
+                    android:id="@+id/g1_s14"
+                    android:title="@string/g1_s14_text" />
+                <item
+                    android:id="@+id/g1_s15"
+                    android:title="@string/g1_s15_text" />
+                <item
+                    android:id="@+id/g1_s16"
+                    android:title="@string/g1_s16_text" />
+                <item
+                    android:id="@+id/g1_s17"
+                    android:title="@string/g1_s17_text" />
+            </menu>
+        </item>
+    </group>
+
+    <group
+        android:id="@+id/menu_CPS_settings_group"
+        android:visible="false">
+
+        <item android:title="@string/g2_text">
+            <menu>
+                <item
+                    android:id="@+id/g2_s1"
+                    android:title="@string/g2_s1_text"
+                    android:checkable="true"/>
+
+                <item
+                    android:id="@+id/g2_s2"
+                    android:title="@string/g2_s2_text" />
+
+                <item
+                    android:id="@+id/g2_s3"
+                    android:title="@string/g2_s3_text" />
+
+                <item
+                    android:id="@+id/g2_s4"
+                    android:title="@string/g2_s4_text" />
+
+                <item
+                    android:id="@+id/g2_s5"
+                    android:title="@string/g2_s5_text"
+                    android:checkable="true"/>
+
+                <item
+                    android:id="@+id/g2_s6"
+                    android:title="@string/g2_s6_text"
+                    android:checkable="true"/>
+
+                <item
+                    android:id="@+id/g2_s7"
+                    android:title="@string/g2_s7_text"
+                    android:checkable="true"/>
+
+                <item
+                    android:id="@+id/g2_s8"
+                    android:title="@string/g2_s8_text"
+                    android:checkable="true"/>
+
+                <item
+                    android:id="@+id/g2_s9"
+                    android:title="@string/g2_s9_text"
+                    android:checkable="true"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

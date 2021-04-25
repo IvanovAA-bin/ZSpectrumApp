@@ -41,18 +41,21 @@
         android:layout_weight="0"
         android:orientation="horizontal">
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight="1"
             android:id="@+id/button_1"
             android:text="@string/button_1_text"/>
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight="1"
             android:id="@+id/button_2"
             android:text="@string/button_2_text"/>
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight="1"
             android:id="@+id/button_3"
             android:text="@string/button_3_text"/>
     </LinearLayout>
